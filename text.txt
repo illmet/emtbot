@@ -1,2 +1,0 @@
-Telegram bot for EuroMillions draws
-Made by illmet 
